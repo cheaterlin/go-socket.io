@@ -1,4 +1,4 @@
-module github.com/cheaterlin/go-socket.io
+module github.com/googollee/go-socket.io
 
 require (
 	github.com/googollee/go-engine.io v1.4.3-0.20190924125625-798118fc0dd2
